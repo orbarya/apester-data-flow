@@ -1,0 +1,40 @@
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: LongCounter{Name=Name{counterName=user-s1-frequenciesCombinedToSingleValueFailures, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=0}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: LongCounter{Name=Name{counterName=s8-DroppedDueToClosedWindow, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=0}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: LongCounter{Name=Name{counterName=s8-DroppedDueToLateness, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=0}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: IntegerCounter{Name=Name{counterName=user-s22-DataflowAssertSuccess, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=1}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: IntegerCounter{Name=Name{counterName=user-s22-DataflowAssertFailure, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=0}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: LongCounter{Name=Name{counterName=s18-DroppedDueToClosedWindow, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=0}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: LongCounter{Name=Name{counterName=user-s1-frequenciesCombinedToSingleValueSuccessfuly, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=4}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: LongCounter{Name=Name{counterName=s18-DroppedDueToLateness, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=0}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Pipeline execution complete.
+Jun 01, 2017 8:08:41 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Executing pipeline using the DirectPipelineRunner.
+Jun 01, 2017 8:08:41 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Executing pipeline using the DirectPipelineRunner.
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: LongCounter{Name=Name{counterName=user-s1-linesTokenizedSuccessfuly, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=6}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: LongCounter{Name=Name{counterName=s8-DroppedDueToClosedWindow, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=0}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: LongCounter{Name=Name{counterName=s8-DroppedDueToLateness, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=0}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: IntegerCounter{Name=Name{counterName=user-s22-DataflowAssertSuccess, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=1}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: IntegerCounter{Name=Name{counterName=user-s22-DataflowAssertFailure, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=0}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: LongCounter{Name=Name{counterName=user-s1-linesTokenizedFailures, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=0}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: LongCounter{Name=Name{counterName=s18-DroppedDueToClosedWindow, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=0}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Final aggregator value: LongCounter{Name=Name{counterName=s18-DroppedDueToLateness, contextSystemName=null, contextOriginalName=null}, Kind=SUM, Value=0}
+Jun 01, 2017 8:08:42 PM com.google.cloud.dataflow.sdk.runners.DirectPipelineRunner run
+INFO: Pipeline execution complete.
